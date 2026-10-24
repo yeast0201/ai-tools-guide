@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yeast0201.github.io/ai-tools-guide/sitemap.xml
